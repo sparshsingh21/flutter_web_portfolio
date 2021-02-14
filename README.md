@@ -2,7 +2,7 @@
 A portfolio website built using flutter
 
 
-#TO-DO
+# TO-DO
 - [x] Designing the UI
 - [x] Implementing the UI
 - [x] Adding the projects
